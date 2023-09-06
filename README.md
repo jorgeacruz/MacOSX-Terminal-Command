@@ -29,7 +29,7 @@ To schedule your Mac to wake or boot up each day from Monday to Friday at 7am, y
 
 To schedule your Mac to shut down each weekday at 7pm, you would input:
 
-<h3 style="color:#ff6600;">sudo pmset repeat shutdown MTWRF 19:00:00
+<h3 style="color:#ff0000;">sudo pmset repeat shutdown MTWRF 19:00:00
 
 ## <span style="color:#FFBD44;">Schedule Your Mac to Restart</span>
 
