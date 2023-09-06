@@ -10,7 +10,7 @@ In Ventura, you have to use the command line to schedule waking, sleeping, reboo
 
 The pmset command recognizes the day, date, and time, using the MM/DD/YY format for date, and HH:MM:SS for time. So for January 10, 2024 at 7:00am you would use 1/10/24 07:00:00. You can also specify days of the week using the following letters:
 
-Monday is M
+Segunda is M
 Tuesday is T
 Wednesday is W
 Thursday is R
